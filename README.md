@@ -1,2 +1,1 @@
-# typescript-nodejs-v3
-Simple
+# No maintenance, no support.
